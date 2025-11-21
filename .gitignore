@@ -1,0 +1,26 @@
+# Environment & secrets
+.env
+*.env
+backend/.env
+frontend/.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+backend/.venv/
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+
+# IDE / tooling
+.DS_Store
+.idea/
+.vscode/
+
+# Docker artifacts
+*.log
+
+
+
