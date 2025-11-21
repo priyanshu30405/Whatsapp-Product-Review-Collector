@@ -91,6 +91,8 @@ Example response:
 - Automated tests are limited for brevity; recommended next steps:
   - Add FastAPI unit tests around `twilio_flow.process_message`.
   - Add React component tests with Vitest/RTL.
+ 
+    ![Screenshot of All Reviews Dashboard](assets/Whatsappproj.png)
 
 ## Folder Structure
 
